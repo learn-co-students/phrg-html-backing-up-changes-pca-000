@@ -4,4 +4,4 @@
 
 <p><a href="https://www.youtube.com/watch?v=Sh4wSwzf7n0">HTML Back Up Changes</a></p>.
 
-<a href='https://learn.co/lessons/html-backing-up-changes' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-backing-up-changes' title='HTML Backing Up Changes'>HTML Backing Up Changes</a> on Learn.co and start learning to code for free.</p>
