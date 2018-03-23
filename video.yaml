@@ -1,0 +1,71 @@
+{
+              title: "23 Backing Up Changes - YouTube",
+           host_url: "https://www.youtube.com/watch?v=Sh4wSwzf7n0",
+          presenter: "Jonathan Grover",
+             length: "2:35",
+     slides_summary: [
+        {
+             start_offset: "00:00",
+               end_offset: "00:45",
+                  bullets: [
+                "go back to terminal",
+                "check git status",
+                "all of these files and folders are untracked",
+                "do a git add . and we're gonna do a",
+                "git commit -m and say",
+                "'add main pages text content image and links'"
+            ]
+        },
+        {
+             start_offset: "00:45",
+               end_offset: "01:12",
+                  bullets: [
+                "we probably should have been",
+                "committing every time we did something",
+                "that we were proud",
+                "on the job it's probably best to make more commits",
+                "rather than less commits",
+                "i.g. whenever we added the text and were",
+                "satisfied with that we probably could",
+                "have done a commit that said add text",
+                "and when we added the image",
+                "we could have done a commit",
+                "that said 'add image' and so forth and"
+            ]
+        },
+        {
+             start_offset: "01:12",
+               end_offset: "01:36",
+                  bullets: [
+                "do a 'git push -u origin main-pages'",
+                "push that up",
+                "check it out in the browser"
+            ]
+        },
+        {
+             start_offset: "01:36",
+               end_offset: "02:03",
+                  bullets: [
+                "if you like the way it's looking",
+                "you can merge that into your master branch",
+                "do a git checkout master",
+                "and we'll do 'git merge main-pages'",
+                "which will merge main pages into our",
+                "master so remember master is kind of",
+                "like your your publishable code",
+                "code that is ready at any point to go up on"
+            ]
+        },
+        {
+             start_offset: "02:03",
+               end_offset: "2:35",
+                  bullets: [
+                "then push this guy up",
+                "we'll do a git push origin master",
+                "to double-check you can go to your github",
+                "profile and refresh and you should",
+                "see all of those files"
+            ]
+        }
+    ]
+}
