@@ -2,7 +2,7 @@
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/Sh4wSwzf7n0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="https://www.youtube.com/watch?v=Sh4wSwzf7n0">HTML Back Up Changes</a></p>.
+<p><a href="https://www.youtube.com/watch?v=Sh4wSwzf7n0">HTML Back Up Changes</a></p>
 
 If you've been following along on these lessons using your own personal
 repository, adding, committing and pushing at the end of each lesson, you've
