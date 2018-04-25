@@ -35,4 +35,4 @@ repository. Now, if you want to continue to build this website, you have a
 fully functioning `master` branch that you can pull down and branch off from
 for the new features!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-backing-up-changes' title='HTML Backing Up Changes'>HTML Backing Up Changes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Backing Up Changes</p>
