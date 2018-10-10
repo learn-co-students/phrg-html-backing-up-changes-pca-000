@@ -35,4 +35,7 @@ repository. Now, if you want to continue to build this website, you have a
 fully functioning `master` branch that you can pull down and branch off from
 for the new features!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html-backing-up-changes/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html-backing-up-changes/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML Backing Up Changes</p>
